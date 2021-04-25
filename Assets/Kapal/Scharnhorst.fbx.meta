@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: de0652ff07693f243a1a9b614527b938
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_105mm_SK_C-33.001
+    second: {fileID: 2100000, guid: 56c6c94b528393c4f95e54ffcd96d8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_AA_Flak.001
+    second: {fileID: 2100000, guid: 344c001fbfd0f494b90c949c35c18f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Ar_196
+    second: {fileID: 2100000, guid: 1ce1ff7a8a3a8a54aa4b51eb3b1b5738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Doppellafette.001
+    second: {fileID: 2100000, guid: 1e3a94886acba83449bd447ef52d2e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Flakvierling.001
+    second: {fileID: 2100000, guid: 925b90740f26d334ca9759318bb3e108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Catapult.001
+    second: {fileID: 2100000, guid: fcbfdf326aa55a049bfe445c1deed510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Crane.001
+    second: {fileID: 2100000, guid: 2788f73346b20524a98c67936f46072e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Hull.001
+    second: {fileID: 2100000, guid: 5312613e6381ca14cb09f35872df4f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_MainTurret.001
+    second: {fileID: 2100000, guid: 93e8ca0b0db0e8a41b027afee5581735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Propellor.001
+    second: {fileID: 2100000, guid: 35cf6c1ca1ba4b549934fee82171350d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Props.001
+    second: {fileID: 2100000, guid: af3cc5054cde0d9438545a7e4cf8c94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Radar_1.001
+    second: {fileID: 2100000, guid: f6ec75f891c38194792d6443b027849b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Radar_2.001
+    second: {fileID: 2100000, guid: 501b435beacec5a41bdfee601bd041e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Radar_3.001
+    second: {fileID: 2100000, guid: b5c6e6c6aad10964091518d5455e34a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Rudder.001
+    second: {fileID: 2100000, guid: 47891119d40ca984aa88e6d149e649ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Secondary_1.001
+    second: {fileID: 2100000, guid: d32509f9fb15d4141b65dc8199907baf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Secondary_2.001
+    second: {fileID: 2100000, guid: 028eb4e837b1d6344806db84d6e212b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_SideFence.001
+    second: {fileID: 2100000, guid: b5c0a4e52a4fcf347bd001a7e5b43935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_TorpedoTube.001
+    second: {fileID: 2100000, guid: 55f80b3258adc2446b9261b2adb387b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Scharnhorst_Vessel.001
+    second: {fileID: 2100000, guid: 1594b64b2b2c6134cb3484327c0f323b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_105mm_SK_C-33_diffuse
+    second: {fileID: 2800000, guid: 4182ca462de40f64cb497282a8280a6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_AA_Flak_diffuse
+    second: {fileID: 2800000, guid: b0f38b1fc3aa6154489380a6f72b5a7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Ar_196_diffuse_512
+    second: {fileID: 2800000, guid: 369ae1ca549c41e4485c2577c4716b11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Doppellafette_diffuse
+    second: {fileID: 2800000, guid: 7ce090c2c134cbd4188df7f9aec64eee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Flakvierling_diffuse
+    second: {fileID: 2800000, guid: af1b2976d10ab4c44bf6abf7f7d3895a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Catapult_diffuse
+    second: {fileID: 2800000, guid: 861446327944d63499645ad5f9a86609, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Crane_diffuse
+    second: {fileID: 2800000, guid: 4acde9f40c0b7234dbdf9830bd309a69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Hull_diffuse
+    second: {fileID: 2800000, guid: 6e4b87f8f49a0934192d87ca874441fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_MainTurret_diffuse_1
+    second: {fileID: 2800000, guid: 6695e0c82811b9048988a3bcc516a625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Propellor_diffuse
+    second: {fileID: 2800000, guid: 18bb9a68b90c75c44b41246d8574b83d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Radar_1_diffuse
+    second: {fileID: 2800000, guid: 2bfc58d7634a8934fa0749775249576b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Radar_2_diffuse
+    second: {fileID: 2800000, guid: 0033324018aa9b54687d5cebf4b0d556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Radar_3_diffuse
+    second: {fileID: 2800000, guid: 870f88651a536404982a7cb7efc429c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Rudder_diffuse
+    second: {fileID: 2800000, guid: e25823e7f996dea41b0aab0a82b43743, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Secondary_1_diffuse
+    second: {fileID: 2800000, guid: 4289c281994ad4447bad0b759584d4c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_Secondary_2_diffuse
+    second: {fileID: 2800000, guid: d6ff302459a7cf242b1cbd2524c3210b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Scharnhorst_TorpedoTubes_diffuse
+    second: {fileID: 2800000, guid: a22f01744d580874ba05e7547ec979c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Vessel_diffuse
+    second: {fileID: 2800000, guid: ee30a9e99e99e7f4c99281d23d3a10b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Z39_Props_diffuse
+    second: {fileID: 2800000, guid: 02a6e333207583a448c4e7f6b1086c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_Z39_SideFence_diffuse
+    second: {fileID: 2800000, guid: 5f9965e5d749a304b987e441c1b37187, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
